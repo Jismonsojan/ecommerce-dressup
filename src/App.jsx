@@ -12,7 +12,7 @@ import Product from './pages/Product'
 import InvalidPage from './pages/InvalidPage'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import SearchBar from './components/searchBar'
+import SearchBar from './components/SearchBar'
 
 export const App = () => {
   return (
